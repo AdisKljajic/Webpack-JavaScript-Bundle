@@ -33,6 +33,6 @@ Open the package.json file and update the initial "scripts" settings.<br>
 To run your project locally, run the following command "npm run serve" <br><br>
 <b>Production:</b> This mode will generate the required bundle files<br>
 To run your project in production, run the following command "npm run build"<br><br>
-Once the build is initied, following the webpack.config.js bundle files will output under <b>"/dist"</b>
+Once the build is initiated, following the webpack.config.js bundle files will output under <b>"/dist"</b>
 
 
