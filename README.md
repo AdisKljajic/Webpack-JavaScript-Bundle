@@ -10,6 +10,11 @@ Run the following command in your Terminal to install React<br>
 
 # Install Additional Dependencies
 Install Babel, File Loaders, CSS Loaders, Webpack, Webpack Dev Servers etc.<br> All required dependenices for your particular project. 
+<b>npm install --save-dev webpack webpack-cli webpack-dev-server</b>
+<b>npm install --save-dev @babel/core babel-loader @babel/preset-env</b>
+<b>npm install --save-dev @babel/preset-react</b>
+<b>npm install css-loader file-loader sass sass-loader style-loader</b>
+
 
 # Create webpack.config.js file 
 Use the configuration provided above to setup the initial entry points, output settings, development server settings, and module settings. 
