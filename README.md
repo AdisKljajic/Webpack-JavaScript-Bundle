@@ -9,11 +9,11 @@ Run the following command in your Terminal to install React<br>
 <b>npm i react-dom</b>
 
 # Install Additional Dependencies
-Install Babel, File Loaders, CSS Loaders, Webpack, Webpack Dev Servers etc.<br> All required dependenices for your particular project. 
-<b>npm install --save-dev webpack webpack-cli webpack-dev-server</b>
-<b>npm install --save-dev @babel/core babel-loader @babel/preset-env</b>
-<b>npm install --save-dev @babel/preset-react</b>
-<b>npm install css-loader file-loader sass sass-loader style-loader</b>
+Install Babel, File Loaders, CSS Loaders, Webpack, Webpack Dev Servers etc.<br> All required dependenices for your particular project.<br>
+<b>npm install --save-dev webpack webpack-cli webpack-dev-server</b><br>
+<b>npm install --save-dev @babel/core babel-loader @babel/preset-env</b><br>
+<b>npm install --save-dev @babel/preset-react</b><br>
+<b>npm install css-loader file-loader sass sass-loader style-loader</b><br><br>
 
 
 # Create webpack.config.js file 
