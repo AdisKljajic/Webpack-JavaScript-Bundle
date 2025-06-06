@@ -1,4 +1,4 @@
-# Webpack Javascrip Bundling
+# Webpack Javascript Bundling
 This will demostrate a quick NodeJS Webpack Javacript Bundler, which will bundle JavaScript modules into one file. 
 # Initialization
 Run the following command in your Terminal to begin setup<br>
